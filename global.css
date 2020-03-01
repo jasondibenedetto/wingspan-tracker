@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:400,700&display=swap');
+
+html {
+  font-size: 100%;
+}
+
+body {
+  font-family: 'Ubuntu';
+  background-color: #f6f4fc;
+  margin: 0;
+  padding: 8px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: #141124;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: 'Ubuntu';
+}
+
+* {
+  box-sizing: border-box;
+}
